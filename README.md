@@ -13,7 +13,7 @@
 ## 👩‍💻 Who I Am
 
 ```ts
-const pooja = {
+const pooja jotiram chavan = {
   title: "BCA Graduate, Aspiring Data Analyst",
   stack: ["C", "C++", "Python", "SQL", "Excel", "Power BI", "Tableau"],
   working Project: ["Customers Shopping Behavior Analysis"],
