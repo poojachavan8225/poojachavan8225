@@ -5,10 +5,11 @@
     <img src="https://readme-typing-svg.demolab.com?lines=BCA+Graduate;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Data+Projects+and+Dashboards&center=true&width=700&height=45&color=7DD3FC&size=24">
   </a>
 </p>
-![Open To Work](https://img.shields.io/badge/Open%20To-Work-success)
-![Profile Views](https://komarev.com/ghpvc/?username=poojachavan8225&color=7dd3fc)
-![Followers](https://img.shields.io/github/followers/poojachavan8225?label=Followers&style=social)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=poojachavan8225&color=7dd3fc&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/poojachavan8225?label=Followers&style=for-the-badge" />
+</p>
 ## 👩‍💻 Who I Am
 
 ```ts
