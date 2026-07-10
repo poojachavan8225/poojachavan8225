@@ -21,7 +21,7 @@ const pooja = {
 
 ## 🚀 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=Customers_Shopping_behavior_analysis.&theme=nord)](https://github.com/poojachavan8225/Customers_Shopping_behavior_analysis.)
+**[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=Customers_Shopping_behavior_analysis.&theme=nord)](https://github.com/poojachavan8225/Customers_Shopping_behavior_analysis.)**
 
 | Layer | Technology |
 |-------|------------|
