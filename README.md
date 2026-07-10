@@ -58,6 +58,6 @@ Python • SQL • Excel • Power BI • Tableau
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pooja-chavan-225a41339)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:poojachavan8225@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-poojachavan8225%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=poojachavan8225@gmail.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer)
