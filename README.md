@@ -25,7 +25,7 @@ const pooja jotiram chavan = {
 
 ## 🚀 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=customers-shopping-behavior-analysis&theme=nord)](https://github.com/poojachavan8225/customers-shopping-behavior-analysis)
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=customers-shopping-behavior-analysis&theme=nord)](https://github.com/poojachavan8225/customers-shopping-behavior-analysis](https://github.com/poojachavan8225/customer-purchasing-behavior-analysis))
 
 | Layer | Technology |
 |-------|------------|
@@ -33,7 +33,7 @@ const pooja jotiram chavan = {
 | Database | SQL |
 | Analytics | Excel, Power BI, Tableau |
 
-- **Code:** https://github.com/poojachavan8225/customers-shopping-behavior-analysis
+- **Code:** https://github.com/poojachavan8225/customer-purchasing-behavior-analysis
 - **Live Demo:** Coming Soon
 
 ## 🛠️ Tech Stack
