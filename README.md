@@ -14,7 +14,7 @@
 
 ```ts
 const pooja jotiram chavan = {
-  title: "BCA Graduate, Aspiring Data Analyst",
+  title: "BCA Graduate"
   stack: ["C", "C++", "Python", "SQL", "Excel", "Power BI", "Tableau"],
   working Project: ["Customers Shopping Behavior Analysis"],
   certifications: [],
