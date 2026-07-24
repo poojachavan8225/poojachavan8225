@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=280&section=header&text=Pooja%20Chavan&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=BCA%20Graduate%20%7C%20Aspiring%20Data%20Analyst&descAlignY=60&descSize=22)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=280&section=header&text=Pooja%20Chavan&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=BCA%20Graduate%20
 
 <p align="center">
   <a href="https://git.io/typing-svg">
