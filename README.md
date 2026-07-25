@@ -1,70 +1,144 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=280&section=header&text=Pooja%20Chavan&fontSize=45&animation=twinkling&fontColor=ffffff&desc=%20&descSize=18&descAlignY=72)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Pooja Chavan
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=BCA+Graduate;Tech+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+Real-World+Projects;Always+Learning+Something+New"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=BCA+Graduate;Python+%7C+SQL+%7C+Power+BI;Building+Data+Projects+and+Dashboards&center=true&width=700&height=45)](https://git.io/typing-svg)
+---
 
-![Open To Work](https://img.shields.io/badge/Open%20To-Work-success)
-![Profile Views](https://komarev.com/ghpvc/?username=poojachavan8225&color=7dd3fc)
-![Followers](https://img.shields.io/github/followers/poojachavan8225?label=Followers&style=social)
-## 👩‍💻 Who I Am
+## 👩‍💻 About Me
 
-```ts
-const pooja jotiram chavan = {
-  title: "BCA Graduate"
-  stack: ["C", "C++", "Python", "SQL", "Excel", "Power BI", "Tableau"],
-  working Project: ["Customers Shopping Behavior Analysis"],
-  certifications: [],
-  status: "Open to Work",
-  openTo: ["Data Analyst Internships", "Entry-Level Data Analyst Roles"]
-};
-```
+🎓 BCA Graduate
 
-## 🚀 Featured Project
+💡 Passionate about technology and solving real-world problems.
 
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=customers-shopping-behavior-analysis&theme=nord)](https://github.com/poojachavan8225/customers-shopping-behavior-analysis](https://github.com/poojachavan8225/customer-purchasing-behavior-analysis))
+🚀 Interested in Software Development, Data, and Modern Technologies.
 
-| Layer | Technology |
-|-------|------------|
-| Programming | Python |
-| Database | SQL |
-| Analytics | Excel, Power BI, Tableau |
+📚 Continuously learning and building practical projects.
 
-- **Code:** https://github.com/poojachavan8225/customer-purchasing-behavior-analysis
-- **Live Demo:** Coming Soon
+🌱 Currently improving my Python, SQL, Power BI, Git, and problem-solving skills.
 
-## 🛠️ Tech Stack
+---
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🛠 Tech Stack
 
-**Data & Analytics**  
-Python • SQL • Excel • Power BI • Tableau
+### Programming Languages
 
-## 📊 GitHub Stats
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,mysql"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=poojachavan8225&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojachavan8225&layout=compact&theme=nord)
+### Tools & Technologies
 
-![GitHub Streak](https://streak-stats.demolab.com?user=poojachavan8225&theme=nord)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=poojachavan8225&theme=nord&no-frame=true&no-bg=true)
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=poojachavan8225&theme=nord)
+# 🚀 Featured Projects
 
-## 🤝 Connect With Me
+### 🛒 Customer Shopping Behaviour Analysis
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pooja-chavan-225a41339)
-[![Gmail](https://img.shields.io/badge/Gmail-poojachavan8225%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=poojachavan8225@gmail.com)
+✔ Data Cleaning
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer)
+✔ Exploratory Data Analysis
+
+✔ Visualization
+
+✔ Python & Pandas
+
+---
+
+### 📊 Sales Performance Analysis
+
+✔ SQL
+
+✔ Excel
+
+✔ Power BI Dashboard
+
+---
+
+### 🎓 Student Marks Analysis
+
+✔ Python
+
+✔ Data Analysis
+
+✔ Charts & Insights
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=poojachavan8225&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachavan8225&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=poojachavan8225&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=poojachavan8225&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Git & GitHub
+- Problem Solving
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="https://github.com/poojachavan8225">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=poojachavan8225&label=Profile%20Views&color=38bdf8&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ✨ "Keep Learning • Keep Building • Keep Growing"
+
+</p>
