@@ -30,8 +30,9 @@
 ---
 
 ## 💻 Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,dotnet,js,html,css,mysql,git,github,vscode&perline=13" />
+  <img height="42" src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,dotnet,js,html,css,mysql,git,github,vscode&perline=13" />
 </p>
 
 <p align="left">
@@ -39,7 +40,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
