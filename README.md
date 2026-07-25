@@ -1,128 +1,98 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Pooja Chavan
+<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=BCA+Graduate;Tech+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+Real-World+Projects;Always+Learning+Something+New"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:38BDF8,100:6366F1&text=Pooja%20Chavan&fontColor=ffffff&fontSize=46&animation=fadeIn"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=BCA+Graduate;Tech+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Always+Learning+Something+New"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=poojachavan8225&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/poojachavan8225?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Work-22c55e?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 👩‍💻 About Me
+# 👋 About Me
 
+```text
 🎓 BCA Graduate
 
-💡 Passionate about technology and solving real-world problems.
+💻 Passionate about technology and continuous learning.
 
-🚀 Interested in Software Development, Data, and Modern Technologies.
+🚀 Interested in building practical solutions,
+exploring new tools, and improving my technical skills.
 
-📚 Continuously learning and building practical projects.
-
-🌱 Currently improving my Python, SQL, Power BI, Git, and problem-solving skills.
+🌱 Always curious to learn, improve, and grow.
+```
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,mysql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,mysql,git,github,vscode"/>
 
-### Tools & Technologies
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🛒 Customer Shopping Behaviour Analysis
-
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis
-
-✔ Visualization
-
-✔ Python & Pandas
-
----
-
-### 📊 Sales Performance Analysis
-
-✔ SQL
-
-✔ Excel
-
-✔ Power BI Dashboard
-
----
-
-### 🎓 Student Marks Analysis
-
-✔ Python
-
-✔ Data Analysis
-
-✔ Charts & Insights
-
----
-
-# 📈 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=poojachavan8225&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=poojachavan8225&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachavan8225&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachavan8225&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=poojachavan8225&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=poojachavan8225&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=poojachavan8225&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Python
-- SQL
-- Power BI
-- Excel
-- Git & GitHub
-- Problem Solving
 
 ---
 
 # 🤝 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/poojachavan8225">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -131,14 +101,6 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=poojachavan8225&label=Profile%20Views&color=38bdf8&style=flat"/>
-
-</p>
-
----
-
-<p align="center">
-
-### ✨ "Keep Learning • Keep Building • Keep Growing"
+### ⭐ Thanks for visiting my profile!
 
 </p>
