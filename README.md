@@ -30,23 +30,14 @@
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,mysql,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,dotnet,js,html,css,mysql,git,github,vscode&perline=7" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-# 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=poojachavan8225&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachavan8225&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 # 🔥 GitHub Streak
