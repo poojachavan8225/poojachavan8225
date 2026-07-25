@@ -32,7 +32,7 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img height="42" src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,dotnet,js,html,css,mysql,git,github,vscode&perline=13" />
+  <img height="38" src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,dotnet,js,html,css,mysql,git,github,vscode&perline=13" />
 </p>
 
 <p align="left">
