@@ -50,12 +50,18 @@
 
 ---
 
-## 📂 Featured Repositories
+## 🚀 Featured Project
 
-<p align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=Customer-Behavior-Analysis&theme=nord)](https://github.com/poojachavan8225/Customer-Behavior-Analysis)
 
-<a href="[https://github.com/poojachavan8225/customer-purchasing-behavior-analysis](https://github.com/poojachavan8225?tab=repositories)">
+| Layer | Technology |
+|-------|------------|
+| Programming | Python |
+| Database | SQL |
+| Analytics | Excel, Power BI, Tableau |
 
+- **Code:** https://github.com/poojachavan8225/customer-purchasing-behavior-analysis
+- **Live Demo:** Coming Soon
 
 ## 📫 Connect 
 
@@ -64,11 +70,11 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/pooja-chavan-225a41339">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:poojachavan8225@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
