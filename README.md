@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<a href="https://github.com/poojachavan8225/customer_shopping_behaviour_analysis">
+<a href="https://github.com/poojachavan8225/customer-purchasing-behavior-analysis">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=customer_shopping_behaviour_analysis&theme=github_dark&hide_border=true"/>
 </a>
 
