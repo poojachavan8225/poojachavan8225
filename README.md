@@ -29,37 +29,25 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,mysql"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,mysql,git,github,vscode&perline=9" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 # 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=poojachavan8225&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachavan8225&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=poojachavan8225&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachavan8225&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -71,62 +59,40 @@
 
 ---
 
-# 📂 Featured Repositories
+## 📂 Featured Repositories
 
 <p align="center">
 
 <a href="https://github.com/poojachavan8225/customer_shopping_behaviour_analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=customer_shopping_behaviour_analysis&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=customer_shopping_behaviour_analysis&theme=github_dark&hide_border=true"/>
 </a>
 
 <a href="https://github.com/poojachavan8225/student_marks_analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=student_marks_analysis&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=student_marks_analysis&theme=github_dark&hide_border=true"/>
 </a>
 
 </p>
 
 <p align="center">
-
-<!-- Future me sirf repo name change karna -->
 
 <a href="https://github.com/poojachavan8225/sales-performance-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=sales-performance-analysis&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/poojachavan8225/YOUR_REPOSITORY">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=poojachavan8225&repo=sales-performance-analysis&theme=github_dark&hide_border=true"/>
 </a>
 
 </p>
 
----
-
-# 📫 Connect
+## 📫 Connect 
 
 <p align="center">
-
-<a href="https://github.com/poojachavan8225">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:38BDF8&height=120&section=footer"/>
-
+  <a href="https://github.com/poojachavan8225">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
