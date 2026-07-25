@@ -1,5 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=280&section=header&text=Pooja%20Chavan&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=BCA%20Graduate%20
+![header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=250&section=header&text=Pooja%20Chavan&fontSize=45&animation=twinkling&fontColor=ffffff&desc=BCA%20Graduate%20|%20Aspiring%20Data%20Analyst)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=BCA+Graduate;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Data+Projects+and+Dashboards&center=true&width=700&height=45)](https://git.io/typing-svg)
+
+![Open To Work](https://img.shields.io/badge/Open%20To-Work-success)
+![Profile Views](https://komarev.com/ghpvc/?username=poojachavan8225&color=7dd3fc)
+![Followers](https://img.shields.io/github/followers/poojachavan8225?label=Followers&style=social)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?lines=BCA+Graduate;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Data+Projects+and+Dashboards&center=true&width=700&height=45&color=7DD3FC&size=24">
